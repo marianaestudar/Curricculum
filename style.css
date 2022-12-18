@@ -148,7 +148,7 @@ section {
     position: absolute;
     width: 300px;
     aspect-ratio: 1;
-    background-image: url('../renovar/fotoperfil.png.jpg');
+    background-image: url('../poster/fotoperfil.png.jpg');
     background-position: center;
     background-size: cover;
     right: 80px;
